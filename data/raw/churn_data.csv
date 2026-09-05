@@ -1,0 +1,21 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,MonthlyCharges,TotalCharges,TechSupport,PaymentMethod,Churn
+C001,Female,0,Yes,No,1,Yes,Fiber optic,Month-to-month,75.0,80.0,No,Electronic check,Yes
+C002,Male,1,No,Yes,5,Yes,DSL,One year,55.5,260.0,Yes,Bank transfer (automatic),No
+C003,Female,0,Yes,No,12,No,DSL,Two year,45.2,520.0,Yes,Credit card (automatic),No
+C004,Male,0,No,Yes,18,Yes,Fiber optic,Month-to-month,85.0,1500.0,No,Electronic check,Yes
+C005,Female,1,Yes,No,30,Yes,No,Two year,40.0,1200.0,Yes,Bank transfer (automatic),No
+C006,Male,0,No,Yes,42,No,DSL,One year,50.0,2000.0,Yes,Mailed check,No
+C007,Female,0,Yes,Yes,3,Yes,Fiber optic,Month-to-month,90.0,300.0,No,Electronic check,Yes
+C008,Male,1,No,No,8,Yes,DSL,Month-to-month,68.0,520.0,No,Electronic check,Yes
+C009,Female,0,Yes,No,24,Yes,Fiber optic,One year,72.0,1700.0,Yes,Credit card (automatic),No
+C010,Male,0,No,No,15,Yes,No,One year,35.0,480.0,Yes,Mailed check,No
+C011,Female,1,No,No,4,Yes,Fiber optic,Month-to-month,80.0,330.0,No,Electronic check,Yes
+C012,Male,0,Yes,Yes,60,Yes,DSL,Two year,48.0,2900.0,Yes,Bank transfer (automatic),No
+C013,Female,0,Yes,No,9,Yes,DSL,Month-to-month,60.0,550.0,No,Electronic check,Yes
+C014,Male,1,No,No,36,Yes,Fiber optic,One year,78.0,2500.0,Yes,Credit card (automatic),No
+C015,Female,0,Yes,Yes,48,Yes,No,Two year,42.0,2000.0,Yes,Mailed check,No
+C016,Male,0,No,No,10,Yes,Fiber optic,Month-to-month,88.0,820.0,No,Electronic check,Yes
+C017,Female,1,Yes,No,22,Yes,DSL,One year,58.0,1200.0,Yes,Bank transfer (automatic),No
+C018,Male,0,No,Yes,70,Yes,DSL,Two year,46.0,3200.0,Yes,Credit card (automatic),No
+C019,Female,0,Yes,No,6,Yes,Fiber optic,Month-to-month,83.0,490.0,No,Electronic check,Yes
+C020,Male,0,No,No,26,Yes,No,One year,38.0,980.0,Yes,Mailed check,No
